@@ -14,6 +14,7 @@ VENV/
 
 # Data files
 data/*.csv
+!data/bollywood_songs.csv
 
 # Streamlit configuration
 .streamlit/
